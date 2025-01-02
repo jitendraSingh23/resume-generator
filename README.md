@@ -8,7 +8,7 @@ A React+TS based resume generator with templates
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Screenshot 2025-01-02 213017](https://github.com/user-attachments/assets/6db4957b-964b-4857-bdbd-738170a17471)
 
 
 ## Features
