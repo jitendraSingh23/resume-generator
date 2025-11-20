@@ -3,7 +3,7 @@
 
 A React+TS based resume generator with templates
 
-### [Vercel Demo](https://resume-builder-jitendrasingh23s-projects.vercel.app/) ###
+### [Demo](https://resumebuilder.jitendra.online/) ###
 
 
 ## Screenshots
